@@ -43,3 +43,8 @@ and replace the things.
 When you're done making changes, click on the git sidebar:
 
 ![git sidebar](/images/git_sidebar.png)
+
+And then:
+1. **Add the changes** by clicking mousing over "Changes" and clicking on the `+` symbol.
+
+![add changes](/images/add_changes.png)
