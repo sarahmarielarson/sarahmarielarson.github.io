@@ -37,3 +37,9 @@ More about the work (after clicking on it).
 
 ```
 and replace the things.
+
+## Pushing Changes
+
+When you're done making changes, click on the git sidebar:
+
+![git sidebar](/images/git_sidebar.png)
