@@ -55,4 +55,4 @@ And then:
     
 3. Push changes!
 
-    ![push](/image/push_changes.png)
+    ![push](/images/push_changes.png)
