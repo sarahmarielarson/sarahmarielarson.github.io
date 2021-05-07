@@ -47,4 +47,12 @@ When you're done making changes, click on the git sidebar:
 And then:
 1. **Add the changes** by clicking mousing over "Changes" and clicking on the `+` symbol.
 
-![add changes](/images/add_changes.png)
+    ![add changes](/images/add_changes.png)
+
+2. Write a commit message and hit `CTRL-ENTER`.
+
+    ![commit](/images/commit_message.png)
+    
+3. Push changes!
+
+    ![push](/image/push_changes.png)
