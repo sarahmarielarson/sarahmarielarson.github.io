@@ -56,3 +56,7 @@ And then:
 3. Push changes!
 
     ![push](/images/push_changes.png)
+
+## Closing Down
+
+When you're finished, either close VS Code or click in the terminal and press `CTRL-C`.
