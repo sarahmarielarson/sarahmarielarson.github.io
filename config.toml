@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Creative Portfolio"
   copyright = "&copy;2021 Sarah Larson"
   sidebarAbout = [
-    "A student, artist.",
+    "-",
     "Based in Los Angeles."
   ]
   # Contact page
