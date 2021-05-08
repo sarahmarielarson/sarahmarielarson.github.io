@@ -7,9 +7,11 @@ title = "Jam"
 weight = 0
 +++
 
-Jam with California strawberries.
+Made from California Strawberries
 
 <!--more-->
+
+My dad makes homemade jam every year so that we can enjoy peak-season California strawberries in the winter.
 
 ![figure1][1]
 

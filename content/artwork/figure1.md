@@ -3,17 +3,17 @@ showonlyimage = false
 draft = false
 image = "img/artwork/figure1.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Reclining Figure"
+title = "Figure 1"
 weight = 0
 +++
 
-About the work.
+Reclining
 
 <!--more-->
 
 ![figure1][1]
 
-More about the work (after clicking on it).
+Reclining Figure, Adobe Fresco, 2019.
 
 
 [1]: /img/artwork/figure1.jpg
