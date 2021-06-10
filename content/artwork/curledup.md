@@ -7,7 +7,7 @@ title = "Figure 2"
 weight = 0
 +++
 
-Knee-to-Chest
+Sitting knee-to-chest
 
 <!--more-->
 

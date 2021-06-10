@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/photography/Dash.jpg"
 date = "2016"
-title = "Jaywalking"
+title = "Jaywalk"
 weight = 0
 +++
 

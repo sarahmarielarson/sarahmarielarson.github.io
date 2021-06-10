@@ -7,13 +7,13 @@ title = "Portrait 1"
 weight = 0
 +++
 
-Portrait of Ida
+Portrait of Ester
 
 <!--more-->
 
 ![figure1][1]
 
-Portrait of Ida, Adobe Fresco, 2018
+Portrait of Ester, Adobe Fresco, 2018
 
 
 [1]: /img/artwork/kanimation.jpg

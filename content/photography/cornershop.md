@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/photography/Dash.jpg"
+image = "img/photography/cornershop.jpg"
 date = "2016"
-title = "Jaywalking"
+title = "Corner Shop"
 weight = 0
 +++
 
@@ -14,4 +14,4 @@ Havana, Cuba (2017)
 
 ![figure1][1]
 
-[1]: /img/photography/Dash.jpg
+[1]: /img/photography/cornershop.jpg

@@ -3,15 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/photography/Jam.jpg"
 date = "2016"
-title = "Jam"
+title = "Batch of Jam"
 weight = 0
 +++
 
-Made from California Strawberries
+Made from California strawberries (2016)
 
 <!--more-->
 
-My dad makes homemade jam every year so that we can enjoy peak-season California strawberries in the winter.
 
 ![figure1][1]
 
