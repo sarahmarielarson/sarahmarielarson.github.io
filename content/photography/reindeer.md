@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/photography/Misty.jpg"
+image = "img/photography/reindeer.jpg"
 date = "2016"
-title = "Mountain Top"
+title = "Reindeer"
 weight = 0
 +++
 
@@ -14,4 +14,4 @@ Norway (2015)
 
 ![figure1][1]
 
-[1]: /img/photography/Misty.jpg
+[1]: /img/photography/reindeer.jpg

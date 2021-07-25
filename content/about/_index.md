@@ -10,4 +10,4 @@ In my spare time, I love to practice painting, illustration, and photography. Fo
 ![This is me][1]
 
 
-[1]: /img/about.png
+[1]: /img/about.jpg

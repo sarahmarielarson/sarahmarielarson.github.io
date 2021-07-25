@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/photography/beach.jpg"
+image = "img/photography/Beach.jpg"
 date = "2016"
 title = "Forrest & Juliette"
 weight = 0
@@ -14,4 +14,4 @@ Havana, Cuba (2017)
 
 ![figure1][1]
 
-[1]: /img/photography/beach.jpg
+[1]: /img/photography/Beach.jpg
