@@ -1,4 +1,4 @@
-baseurl = "http://sarahmarielarson.github.io/"
+baseurl = "https://sarahmarielarson.github.io/"
 title = "Sarah Marie Larson"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
